@@ -1,4 +1,4 @@
-## [Sideband cooling of small ion Coulomb crystals in a Penning trap](https://arxiv.org/abs/1705.08518)
+## [Sideband Cooling of Small Ion Coulomb Crystals in a Penning Trap](https://arxiv.org/abs/1705.08518)
 
 #### Key Points
 
