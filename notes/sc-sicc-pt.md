@@ -3,7 +3,10 @@
 #### Key Points
 
 - Two- and three-ion 40Ca+ ICCs in a Penning trap
-- Penning trap uses a strong magnetic field aligned with the trap axis ($\hat{B}=B\hat{z} $) and a static cylindrically-symmetric quadrupolar electric potentia
+- Trapping force vs Coulomb force
+  - Penning trap uses a strong magnetic field aligned with the trap axis ($\hat{B}=B\hat{z} $) and a static cylindrically-symmetric quadrupolar electric potentia.
+    $$\phi=A(2z^2-\rho^2)$$
+  - Ions cold $\to$ Ion Coulomb Crystal (ICC)
 
 #### Results
 
