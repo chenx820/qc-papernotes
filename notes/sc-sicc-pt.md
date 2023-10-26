@@ -3,7 +3,7 @@
 #### Key Points
 
 - Two- and three-ion 40Ca+ ICCs in a Penning trap
-- Penning trap uses a strong magnetic field aligned with the trap axis ($ \hat{B} = B\hat{z} $) and a static cylindrically-symmetric quadrupolar electric potentia
+- Penning trap uses a strong magnetic field aligned with the trap axis ($\hat{B}=B\hat{z} $) and a static cylindrically-symmetric quadrupolar electric potentia
 
 #### Results
 
